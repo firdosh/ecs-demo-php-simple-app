@@ -15,7 +15,7 @@
     <body>
         <div class="container">
             <div class="hero-unit">
-                <h1>Simple PHP App</h1>
+                <h1>Invite To A Challenge !!!</h1>
                 <h2>CHOTTU</h2>
                 <p>Would You Like To Get Thrashed In a Game Of T.T.</p>
                 <p>Please Let Us Know ASAP :-) :-) :-) <?php echo phpversion(); ?>.</p>
